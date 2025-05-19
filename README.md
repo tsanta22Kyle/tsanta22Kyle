@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tsanta22Kyle
+- 👋 Hi, I’m Tsanta Kyle
 - 👀 I’m interested in front-end and backend technologies
 - 🌱 I'm continually learning new things
 - 💞️ I’m always looking for new challenges
