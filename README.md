@@ -1,68 +1,63 @@
-<h1 align="center">Hey 👋, moi c’est Tsanta Kyle</h1>
-<p align="center">
-  🧠 Front & Back-end | 🚀 Future Fullstack Cloud Engineer | 💻 Tech Enthusiast
-</p>
+# 👋 Yo, moi c’est Tsanta Kyle
+
+🌍 Développeur fullstack en devenir basé à Madagascar (oui, l’île là où il fait tout le temps chaud 🌞 ou pas)  
+💻 Passionné de tech, UI clean, backend solide et de tout ce qui tourne autour du code propre  
+📈 J'aime apprendre des nouveaux trucs, repousser mes limites et bosser sur des projets qui ont du flow
 
 ---
 
-### 🔥 À propos de moi
+## 🧠 À propos de moi
 
-- 🧩 Passionné de **développement web** (React, Node, Spring Boot... j’jongle avec tout)
-- 🛠️ Actuellement en train de **builder** des projets fullstack qui ont du **flow** *(et des bugs aussi, mais chut...)*
-- 📚 Toujours en mode **"Learning never stops"**, surtout quand c’est stylé : Docker, DevOps, Nuxt, etc.
-- 🎯 Objectif d’ici 3-5 ans : **Fullstack Cloud Engineer**, t’as capté ?
-- 🌍 Je viens de **Madagascar** 🇲🇬, là où le soleil tape et le code aussi 🔥
-- 🤝 Je kiffe collaborer sur des projets fous, donc hésite pas à me DM 👇
+- 🛠️ Techs que j’utilise :  
+  `JavaScript` | `TypeScript` | `React` | `Next.js` | `Node.js` | `PostgreSQL`
 
----
-
-### 🚀 Projets en cours
-| Projet | Techs | Statut |
-|--------|-------|--------|
-| 🏠 Mediterranea Home | React, Express, Socket.IO | 🔧 En développement |
-| 📱 Poja CLI Tool | Python (Click) | 🧪 WIP |
-| 🌤️ Weather Analytics | Metabase + PostgreSQL | ✅ Finalisé (presque) |
+- 🔭 Toujours à fond dans l’apprentissage :
+  - Performance web ⚡
+  - Clean architecture 🧼
+  - Git + GitHub Workflow (avec quelques rebase chelous 😅)
+  
+- 🎮 Side hobbies :
+  - ⚽ Foot (je dors pas sans avoir tapé un ballon)
+  - ✏️ Dessin & animation
+  - 🎧 Muscu maison + podcasts deep
 
 ---
 
-### ⚙️ Stack & outils que je maltraite souvent :
+## 🎨 Portfolio
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
+🚧 En cours de design, mais déjà accessible ici :  
+🔗 [https://my-portfolio-theta-eight-61.vercel.app/](https://my-portfolio-theta-eight-61.vercel.app/)
+
+Stay tuned... je bosse dessus quand je ne suis pas en train de refactor un form ou régler des conflits Git 💣
 
 ---
 
-### 📊 Stats GitHub
+## 📊 Stats GitHub
 
 ![Tsanta22kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsanta22kyle&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsanta22kyle&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Let's connect
+## 🧩 Quelques fun facts
 
-- 🎯 Portfolio (WIP): [tsanta-kyle.dev](https://my-portfolio-theta-eight-61.vercel.app/)
-- 🐦 Twitter: bientôt maybe...
-- 💼 LinkedIn: dès que j’ai la flemme de le finir 😅
-- 📮 Mail : `tsanta.kyle@domain.com` *(soon™)*
-
----
-
-### 🧠 Citation random pour faire genre :
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+- 🧪 Je préfère faire une API REST à la main plutôt qu’utiliser un générateur
+- 🧘 J’ai testé des séances de codage en musique lo-fi à 3h du mat… ça fonctionne (jusqu’à ce que VSCode plante)
+- 🤖 Mon prochain défi : construire un projet fullstack solo, avec CI/CD, et me lancer sur Fiverr
 
 ---
 
-<!---
-tsanta22Kyle/tsanta22Kyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📬 Comment me contacter ?
+
+Tu veux build un projet ? Discuter tech ? Ou juste balancer une idée chelou ?  
+📧 **kyle.rakotoarison@gmail.com**  
+🌐 [LinkedIn](https://www.linkedin.com/in/tsantaniaina-kyle-rakotoarison-a2b511298/) 
+
+---
+
+> “Code like a beast, debug like a monk, deploy like a ninja 🥷”
+
+---
+
+<!--
+tsanta22Kyle/tsanta22Kyle is a ✨ special ✨ repo because its README.md appears on your GitHub profile.
+-->
