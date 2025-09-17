@@ -1,3 +1,5 @@
+![Header](./github-header-banner (1).png)
+
 # 👋 Yo, moi c’est Tsanta Kyle
 
 🌍 Développeur fullstack en devenir basé à Madagascar (oui, l’île là où il fait tout le temps chaud 🌞 ou pas)  
