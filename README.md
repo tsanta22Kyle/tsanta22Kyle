@@ -11,7 +11,7 @@
 ## 🧠 À propos de moi
 
 - 🛠️ Techs que j’utilise :  
-  `JavaScript` | `TypeScript` | `React` | `Next.js` | `Node.js` | `PostgreSQL`
+  `JavaScript` | `TypeScript` | `React` | `Next.js` | `Node.js` | `PostgreSQL` | `Java`
 
 - 🔭 Toujours à fond dans l’apprentissage :
   - Performance web ⚡
@@ -19,8 +19,7 @@
   - Git + GitHub Workflow (avec quelques rebase chelous 😅)
   
 - 🎮 Side hobbies :
-  - ⚽ Foot (je dors pas sans avoir tapé un ballon)
-  - ✏️ Dessin & animation
+  - ⚽ Foot 
   - 🎧 Muscu maison + podcasts deep
 
 ---
