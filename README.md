@@ -1,4 +1,4 @@
-# Hey there, I'm Kyle 👋
+# Hey there, I'm Tsanta Kyle 👋
 
 <div align="center">
   
@@ -6,6 +6,27 @@
   
   **`Digital Craftsman (Developer / Problem Solver / Continuous Learner)`**
 
+</div>
+
+---
+
+### 🏆 Certifications & Achievements
+
+<div align="center">
+
+| 🎯 Achievement | 🏅 Platform | 📅 Status |
+|----------------|-------------|-----------|
+| **JavaScript (Intermediate)** | HackerRank | ✅ Certified |
+| **Java (Basics)** | HackerRank | ✅ Certified |
+| **Vice Champion - DevFest Hackathon** | Google Developer Groups Antananarivo | 🥈 2nd Place |
+
+</div>
+
+<div align="center">
+  
+  [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
+  [![Google DevFest](https://img.shields.io/badge/-DevFest_2024-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/)
+  
 </div>
 
 ---
@@ -30,19 +51,42 @@ const kyle = {
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                    Frontend Universe                       ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,react,expo&theme=dark" />
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                    Backend Fortress                        ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,postgres&theme=dark" />
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                  DevOps & Infrastructure                   ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions&theme=dark" />
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                   Development Arsenal                      ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,claude&theme=dark" />
+<img src="https://img.shields.io/badge/⚡_Antigravity-FF6B6B?style=flat-square&logoColor=white" />
 
 </div>
 
@@ -113,4 +157,4 @@ const kyle = {
   
   ![Profile Views](https://komarev.com/ghpvc/?username=tsanta22kyle&color=blueviolet&style=for-the-badge)
   
-</div>
+</div> 
