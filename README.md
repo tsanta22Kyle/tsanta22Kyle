@@ -25,7 +25,7 @@
 <div align="center">
   
   [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
-  [![Google DevFest](https://img.shields.io/badge/-DevFest_2024-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/)
+  [![Google DevFest](https://img.shields.io/badge/-DevFest_2025-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/)
   
 </div>
 
@@ -45,7 +45,7 @@ const kyle = {
 ```
 
 - 🔭 Currently working on **full-stack projects** with modern tech stacks
-- 🌱 Learning advanced **system design** and **cloud architecture**
+- 🌱 Learning  **system design** and **cloud architecture**
 - 💡 Building my way toward **freelancing** and open-source contributions
 - ⚡ Side interests: **Football**, **Home workouts**, **Gaming**, and **Tech podcasts**
 
@@ -86,7 +86,8 @@ const kyle = {
 ```
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,claude&theme=dark" />
-<img src="https://img.shields.io/badge/⚡_Antigravity-FF6B6B?style=flat-square&logoColor=white" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8a162f21-3cf0-4737-a2fd-61b54fce5368" />
+
 
 </div>
 
