@@ -121,11 +121,9 @@ const kyle = {
 
 ### 🎯 Current Goals
 
-- 🚀 Launch **3 production-ready full-stack apps** in 2025
 - 📚 Master **CI/CD pipelines** and **DevOps practices**
-- 🌐 Start **freelancing** and build a strong client portfolio
+- 🌐 Start **an youtube channel** and build a personnal branding
 - 🤝 Contribute to **open-source** projects regularly
-- 📝 Write technical **blog posts** to share knowledge
 
 ---
 
