@@ -85,8 +85,7 @@ const kyle = {
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,claude&theme=dark" />
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8a162f21-3cf0-4737-a2fd-61b54fce5368" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,sublime&theme=dark" />
 
 
 </div>
