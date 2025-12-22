@@ -18,6 +18,7 @@
 |----------------|-------------|-----------|
 | **JavaScript (Intermediate)** | HackerRank | ✅ Certified |
 | **Java (Basics)** | HackerRank | ✅ Certified |
+| **Frontend Developer (React) Certificate** | HackerRank | ✅ Certified |
 | **Vice Champion - DevFest Hackathon** | Google Developer Groups Antananarivo | 🥈 2nd Place |
 
 </div>
