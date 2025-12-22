@@ -132,7 +132,7 @@ const kyle = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsantaniaina-kyle-rakotoarison-a2b511298/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-theta-eight-61.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tsantakyle.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyle.rakotoarison@gmail.com)
 
 </div>
