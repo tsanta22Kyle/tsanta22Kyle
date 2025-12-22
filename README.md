@@ -111,7 +111,7 @@ const kyle = {
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tsanta22kyle&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://my-portfolio-theta-eight-61.vercel.app/)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tsanta22kyle&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://tsantakyle.vercel.app/)
 
 </div>
 
