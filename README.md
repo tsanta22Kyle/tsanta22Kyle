@@ -1,160 +1,177 @@
-# Hey there, I'm Tsanta Kyle 👋
+# Hi, I'm Tsanta Kyle 👋
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Developer;Building+Clean+%26+Scalable+Solutions;Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
-  
-  **`Digital Craftsman (Developer / Problem Solver / Continuous Learner)`**
+### Full-Stack Developer | Computer Science Student | Future Entrepreneur 🇲🇬
 
-</div>
+I build modern web and mobile applications with a strong focus on clean architecture, scalability, and user experience.
+
+Currently looking for **internship**, **freelance**, and **collaboration opportunities** where I can solve real-world problems and continue growing as a developer.
 
 ---
 
-### 🏆 Certifications & Achievements
+## 🚀 About Me
 
-<div align="center">
+* 🎓 Computer Science Student from Madagascar
+* 💻 Full-Stack Developer passionate about building useful products
+* 🌱 Currently learning System Design, Cloud Architecture, and DevOps
+* 🏆 Vice Champion – DevFest Hackathon
+* 🎯 Goal: Become a world-class software engineer and tech entrepreneur
 
-| 🎯 Achievement | 🏅 Platform | 📅 Status |
-|----------------|-------------|-----------|
-| **JavaScript (Intermediate)** | HackerRank | ✅ Certified |
-| **Java (Basics)** | HackerRank | ✅ Certified |
-| **Frontend Developer (React) Certificate** | HackerRank | ✅ Certified |
-| **Vice Champion - DevFest Hackathon** | Google Developer Groups Antananarivo | 🥈 2nd Place |
-| **Internal HEI Qualifier Hackathon** | HEI | ✅ 1sts |
-
-</div>
-
-<div align="center">
-  
-  [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
-  [![Google DevFest](https://img.shields.io/badge/-DevFest_2025-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/)
-  
-</div>
-
----
-
-### 🧑‍💻 About Me
-
-I'm a full-stack developer from **Madagascar** 🇲🇬, passionate about building elegant solutions to complex problems. I believe in writing clean code, testing thoroughly, and shipping fast.
-
-```typescript
+```ts
 const kyle = {
-  location: "Madagascar 🌍",
-  currentFocus: ["Clean Architecture", "Web Performance", "System Design"],
-  funFact: "I write tests even for personal projects",
-  lifePhilosophy: "Code like a beast, debug like a monk, deploy like a ninja 🥷"
+  role: "Full Stack Developer",
+  location: "Madagascar 🇲🇬",
+  frontend: ["React", "Next.js", "TypeScript"],
+  backend: ["Node.js", "Spring Boot", "Java"],
+  database: ["PostgreSQL"],
+  tools: ["Git", "Docker", "GitHub Actions"],
+  currentFocus: [
+    "System Design",
+    "Backend Engineering",
+    "Cloud & DevOps"
+  ]
 };
 ```
 
-- 🔭 Currently working on **full-stack projects** with modern tech stacks
-- 🌱 Learning  **system design** and **cloud architecture**
-- 💡 Building my way toward **freelancing** and open-source contributions
-- ⚡ Side interests: **Football**, **Home workouts**, **Gaming**, and **Tech podcasts**
+---
+
+## 🏅 Achievements
+
+* 🥈 Vice Champion – DevFest Hackathon
+* 🥇 Internal HEI Hackathon Qualifier
+* ✅ HackerRank JavaScript (Intermediate)
+* ✅ HackerRank Java (Basics)
+* ✅ HackerRank Frontend Developer (React)
 
 ---
 
-### 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,expo" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,postgres" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,idea" />
+</p>
+
+---
+
+## 🚀 What I Can Build
+
+* Modern responsive web applications
+* REST APIs and backend services
+* Full-stack CRUD applications
+* Authentication & authorization systems
+* PostgreSQL database design
+* Dockerized applications
+* Mobile apps with React Native & Expo
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Portfolio Website
+
+Personal portfolio showcasing my projects, skills, and journey as a developer.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS
+
+🔗 Live Demo: https://tsantakyle.vercel.app
+
+---
+
+### ⚙️ Full-Stack Applications
+
+Projects focused on:
+
+* Authentication systems
+* Dashboard interfaces
+* API integrations
+* Database management
+* Performance optimization
+
+---
+
+### 📱 Mobile Development
+
+Building cross-platform applications using React Native and Expo.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                    Frontend Universe                       ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsanta22kyle&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,react,expo&theme=dark" />
+</div>
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                    Backend Fortress                        ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,java,spring,postgres&theme=dark" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tsanta22kyle\&theme=tokyonight\&hide_border=true)
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                  DevOps & Infrastructure                   ║
-╚═══════════════════════════════════════════════════════════╝
-```
+</div>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions&theme=dark" />
+<div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                   Development Arsenal                      ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,sublime&theme=dark" />
-
+[![Kyle's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tsanta22kyle\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+## 🎯 Current Goals
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsanta22kyle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsanta22kyle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tsanta22kyle&theme=tokyonight&hide_border=true&background=0D1117)
-  
-</div>
+* Build impactful full-stack projects
+* Improve backend and system design skills
+* Contribute to open-source projects
+* Start freelancing professionally
+* Share knowledge through content creation
 
 ---
 
-### 🚀 Featured Projects
+## 🤝 Open To
 
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tsanta22kyle&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://tsantakyle.vercel.app/)
-
-</div>
-
-> 🔥 More projects coming soon... Stay tuned!
+* Internship Opportunities
+* Freelance Projects
+* Open Source Contributions
+* Startup Collaborations
+* Technical Partnerships
 
 ---
 
-### 🎯 Current Goals
+## 🌐 Connect With Me
 
-- 📚 Master **CI/CD pipelines** and **DevOps practices**
-- 🌐 Start **an youtube channel** and build a personnal branding
-- 🤝 Contribute to **open-source** projects regularly
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/tsantaniaina-kyle-rakotoarison-a2b511298/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🌐 Connect With Me
+<a href="https://tsantakyle.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<div align="center">
+<a href="mailto:kyle.rakotoarison@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsantaniaina-kyle-rakotoarison-a2b511298/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tsantakyle.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyle.rakotoarison@gmail.com)
-
-</div>
-
----
-
-### 💭 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+</p>
 
 ---
 
 <div align="center">
-  
-  **✨ Thanks for stopping by! Let's build something amazing together ✨**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=tsanta22kyle&color=blueviolet&style=for-the-badge)
-  
-</div> 
+
+### Let's build something impactful 🚀
+
+</div>
