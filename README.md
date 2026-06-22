@@ -4,7 +4,7 @@
 
 I build modern web and mobile applications with a strong focus on clean architecture, scalability, and user experience.
 
-Currently looking for **internship**, **freelance**, and **collaboration opportunities** where I can solve real-world problems and continue growing as a developer.
+Currently looking for **collaboration opportunities** where I can solve real-world problems and continue growing as a developer.
 
 ---
 
@@ -13,7 +13,7 @@ Currently looking for **internship**, **freelance**, and **collaboration opportu
 * 🎓 Computer Science Student from Madagascar
 * 💻 Full-Stack Developer passionate about building useful products
 * 🌱 Currently learning System Design, Cloud Architecture, and DevOps
-* 🏆 Vice Champion – DevFest Hackathon
+* 🏆 Vice Champion – DevFest Hackathon (2025)
 * 🎯 Goal: Become a world-class software engineer and tech entrepreneur
 
 ```ts
@@ -142,7 +142,7 @@ Building cross-platform applications using React Native and Expo.
 
 ## 🤝 Open To
 
-* Internship Opportunities
+* Any collab Opportunities
 * Freelance Projects
 * Open Source Contributions
 * Startup Collaborations
