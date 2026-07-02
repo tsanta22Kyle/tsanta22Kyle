@@ -127,7 +127,10 @@ Building cross-platform applications using React Native and Expo.
 [![Kyle's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tsanta22kyle\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
+<div align="center">
+  
+[![Kyle's GitHub stats](https://github-stats-extended.vercel.app/api?username=tsanta22kyle)](https://github.com/stats-organization/github-stats-extended)
+</div>
 ---
 
 ## 🎯 Current Goals
