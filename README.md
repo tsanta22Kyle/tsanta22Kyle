@@ -117,8 +117,8 @@ Building cross-platform applications using React Native and Expo.
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tsanta22kyle\&theme=tokyonight\&hide_border=true)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tsanta22kyle)](https://git.io/streak-stats)
 
 </div>
 
