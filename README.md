@@ -70,7 +70,7 @@ const kyle = {
 
 * Modern responsive web applications
 * REST APIs and backend services
-* Full-stack CRUD applications
+* Full-stack applications
 * Authentication & authorization systems
 * PostgreSQL database design
 * Dockerized applications
@@ -130,21 +130,10 @@ Building cross-platform applications using React Native and Expo.
 
 ---
 
-## 🎯 Current Goals
-
-* Build impactful full-stack projects
-* Improve backend and system design skills
-* Contribute to open-source projects
-* Start freelancing professionally
-* Share knowledge through content creation
-
----
-
 ## 🤝 Open To
 
 * Any collab Opportunities
 * Freelance Projects
-* Open Source Contributions
 * Startup Collaborations
 * Technical Partnerships
 
