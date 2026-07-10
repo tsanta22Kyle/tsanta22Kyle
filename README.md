@@ -55,7 +55,7 @@ const kyle = {
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,postgres,go" />
 </p>
 
 ### DevOps & Tools
