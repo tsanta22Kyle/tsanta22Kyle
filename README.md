@@ -111,12 +111,6 @@ Building cross-platform applications using React Native and Expo.
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsanta22kyle&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tsanta22kyle)](https://git.io/streak-stats)
 
