@@ -7,9 +7,6 @@ I build modern web and mobile applications with a strong focus on clean architec
 Currently looking for **collaboration opportunities** where I can continue growing as a developer.
 
 ---
-
-## 🚀 About Me
-
 * 🎓 Computer Science Student from Madagascar
 * 💻 Full-Stack Developer passionate about building useful products
 * 🌱 Currently learning System Design, Cloud Architecture, and DevOps
