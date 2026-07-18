@@ -1,10 +1,10 @@
-# Hi, I'm Tsanta Kyle 👋
+# I'm Tsanta Kyle
 
-### Full-Stack Developer | Computer Science Student | Future Entrepreneur 🇲🇬
+### Full-Stack Developer | Future Entrepreneur 🇲🇬
 
 I build modern web and mobile applications with a strong focus on clean architecture, scalability, and user experience.
 
-Currently looking for **collaboration opportunities** where I can solve real-world problems and continue growing as a developer.
+Currently looking for **collaboration opportunities** where I can continue growing as a developer.
 
 ---
 
@@ -13,17 +13,15 @@ Currently looking for **collaboration opportunities** where I can solve real-wor
 * 🎓 Computer Science Student from Madagascar
 * 💻 Full-Stack Developer passionate about building useful products
 * 🌱 Currently learning System Design, Cloud Architecture, and DevOps
-* 🏆 Vice Champion – DevFest Hackathon (2025)
-* 🎯 Goal: Become a world-class software engineer and tech entrepreneur
 
 ```ts
 const kyle = {
   role: "Full Stack Developer",
   location: "Madagascar 🇲🇬",
   frontend: ["React", "Next.js", "TypeScript"],
-  backend: ["Node.js", "Spring Boot", "Java"],
+  backend: ["Node.js", "Spring Boot", "Java","go"],
   database: ["PostgreSQL"],
-  tools: ["Git", "Docker", "GitHub Actions"],
+  tools: ["Git", "Docker", "GitHub Actions","vscode","intellIj"],
   currentFocus: [
     "System Design",
     "Backend Engineering",
@@ -36,7 +34,7 @@ const kyle = {
 
 ## 🏅 Achievements
 
-* 🥈 Vice Champion – DevFest Hackathon
+* 🥈 Vice Champion – DevFest Hackathon 2025
 * 🥇 Internal HEI Hackathon Qualifier
 * ✅ HackerRank JavaScript (Intermediate)
 * ✅ HackerRank Java (Basics)
@@ -64,22 +62,6 @@ const kyle = {
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,idea" />
 </p>
 
----
-
-## 🚀 What I Can Build
-
-* Modern responsive web applications
-* REST APIs and backend services
-* Full-stack applications
-* Authentication & authorization systems
-* PostgreSQL database design
-* Dockerized applications
-* Mobile apps with React Native & Expo
-
----
-
-## 📌 Featured Projects
-
 ### 🌐 Portfolio Website
 
 Personal portfolio showcasing my projects, skills, and journey as a developer.
@@ -87,24 +69,6 @@ Personal portfolio showcasing my projects, skills, and journey as a developer.
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS
 
 🔗 Live Demo: https://tsantakyle.vercel.app
-
----
-
-### ⚙️ Full-Stack Applications
-
-Projects focused on:
-
-* Authentication systems
-* Dashboard interfaces
-* API integrations
-* Database management
-* Performance optimization
-
----
-
-### 📱 Mobile Development
-
-Building cross-platform applications using React Native and Expo.
 
 ---
 
